@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi, lichen
+    
+    I am wangronghao, and I love you!
